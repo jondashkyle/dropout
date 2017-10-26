@@ -89,6 +89,6 @@ A custom template with `{{TITLE}}` and `{{CONTENT}}` tags. The default is curren
 
 ## changelog
 
-### October 26th, 2017
+### 10/26/17
 
 First release. Only the save functionality is there. Minimal documentation.
