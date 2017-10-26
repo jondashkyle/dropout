@@ -1,6 +1,6 @@
 # dropout
 
-When interfaces are designed for exhausting your attention and keep you clicking going offline is an act of mental liberation. This is tool of ethical technology which enables you to save pages offline for later consumption and archival.
+When interfaces are designed for exhausting your attention and to keep you clicking, going offline is an act both of liberation and luxury. This is a tool of ethical technology which enables you to save pages for offline access and archival.
 
 ```
 npm install dropout -g
