@@ -13,8 +13,12 @@ dropout save http://quillette.com/2017/10/22/liberals-turning-internet/
 ## features
 
 - Cleanup a page to showcase only the content
-- Static files, no database
-- Fuck a platform, this is a tool 🖕🎉
+- Static files, no database, so super extendable
+- Fuck 🖕 platforms, this is a tool 🎉 for you
+
+## usage
+
+You can use either the [command line interface](#cli) or the [module](#module) with js. There are plans for other things, too.
 
 ## cli
 
@@ -29,7 +33,7 @@ Options:
   --help     Show help
 ```
 
-## js module
+## module
 
 ```
 var dropout = require('dropout')
@@ -37,7 +41,7 @@ var dropout = require('dropout')
 
 ### `dropout.save(url, {options})`
 
-Save a page!
+Save a page! Creates an `index.html` for easy viewing, and a `data.json` with some handy meta-data and the parsed content which is used to generate the html.
 
 ## options
 
