@@ -14,7 +14,7 @@ dropout save http://quillette.com/2017/10/22/liberals-turning-internet/
 
 - Cleanup a page to showcase only the content
 - Static files, no database, so super extendable
-- Tools 🎉 > Platforms 🖕
+- Platforms 🖕, this is a tool 🎉
 
 ## usage
 
@@ -68,6 +68,10 @@ A custom template with `{{TITLE}}` and `{{CONTENT}}` tags. The default is curren
 ```
 <main class="markdown-body" style="max-width: 888px; margin: 60px auto;"><h1>{{TITLE}}</h1>{{CONTENT}}</main>
 ```
+
+## related
+
+- [`new-work`](https://github.com/s3ththompson/new-work), a CLI tool that automatically checks artists' websites for new work by Seth Thompson
 
 ## todo
 
