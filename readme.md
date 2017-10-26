@@ -1,4 +1,4 @@
-# dropout
+<h1 align="center">dropout</h1>
 
 When interfaces are designed for exhausting your attention and to keep you clicking, going offline is an act both of liberation and luxury. This is a tool of ethical technology which enables you to save pages for offline access and archival.
 
