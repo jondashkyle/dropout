@@ -71,7 +71,8 @@ A custom template with `{{TITLE}}` and `{{CONTENT}}` tags. The default is curren
 
 ## related
 
-- [`new-work`](https://github.com/s3ththompson/new-work), a CLI tool that automatically checks artists' websites for new work by Seth Thompson
+- [`new-work`](https://github.com/s3ththompson/new-work), a CLI tool that automatically checks artists' websites for new work by Seth Thompson.
+- [Hardly Everything](http://hardlyeverything.com), an attempt to subvert the traditional feed by substituting activity with user-defined durations of passing time called rests.
 
 ## todo
 
