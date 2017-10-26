@@ -14,7 +14,7 @@ dropout save http://quillette.com/2017/10/22/liberals-turning-internet/
 
 - Cleanup a page to showcase only the content
 - Static files, no database, so super extendable
-- Fuck 🖕 platforms, this is a tool 🎉 for you
+- Tools 🎉 > Platforms 🖕
 
 ## usage
 
@@ -71,6 +71,7 @@ A custom template with `{{TITLE}}` and `{{CONTENT}}` tags. The default is curren
 
 ## todo
 
+- [ ] Testing
 - [ ] Save media files (img, youtubedl, etc)
 - [ ] Custom CSS
 - [ ] Custom HTML template
