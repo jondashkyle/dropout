@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://www.are.na/emma-rae-norton/big-data-no-thanks"><img align="center" src="https://d2w9rnfcy7mm78.cloudfront.net/989416/large_763dc9142432e03b75e5c9362c12031b.jpg" width="100" height="auto"></a></p>
 
-When interfaces are designed for exhausting your attention, and to keep you clicking, going offline is an of both act liberation and luxury. This is a tool of ethical technology enabling you to save pages for offline access and archival.
+When interfaces are designed for capturing and exhausting your attention going offline is both an act of liberation and luxury. This is a tool of ethical technology enabling you to save pages for offline access and personal archival.
 
 ```
 npm install dropout -g
