@@ -26,7 +26,6 @@
   "homepage": "https://github.com/jondashkyle/dropout#readme",
   "dependencies": {
     "create-html": "^4.0.0",
-    "dat-node": "^3.5.4",
     "github-markdown-css": "^2.9.0",
     "node-readability": "^3.0.0",
     "normalize-url": "^1.9.1",

@@ -87,7 +87,7 @@ A custom template with `{{TITLE}}` and `{{CONTENT}}` tags. The default is curren
 - [ ] `remove` lib method
 - [ ] Add to [Arena](https://are.na) support
 
-## changelog
+## change log
 
 ### 10/26/17
 
