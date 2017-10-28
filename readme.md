@@ -83,7 +83,7 @@ A custom template with `{{TITLE}}` and `{{CONTENT}}` tags. The default is curren
 - [ ] Toggle page cleanup
 - [ ] Reading interface
 - [ ] Dat sync
-- [ ] Beaker Browser app
+- [ ] Beaker Browser app (hosted micro-service to save when online)
 - [ ] `remove` lib method
 - [ ] Add to [Arena](https://are.na) support
 
