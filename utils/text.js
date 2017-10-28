@@ -3,5 +3,9 @@ module.exports = {
 }
 
 function sanitize (str) {
-  return str.replace(/\s+/g, '-').toLowerCase()
+  return str
+    .replace(/[^\w\s]|_/g, '')
+    .replace(/\s+/g, ' ')
+    .replace(/\s+/g, '-')
+    .toLowerCase()
 }
