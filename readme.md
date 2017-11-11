@@ -53,6 +53,10 @@ Pass a custom filesystem for saving. Expects `mkdirSync`, `writeFileSync`.
 
 The output (parent) directory the page directory will be saved to.
 
+### `options.root`
+
+Specifies that the `options.output` directory will be the root directory, rather than parent. Requires `options.output`.
+
 ### `options.prepend`
 
 Prepend the directory name with a custom [timestamp](https://www.npmjs.com/package/time-stamp). Defaults to `YYMMDD`.
